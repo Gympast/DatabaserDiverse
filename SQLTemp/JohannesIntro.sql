@@ -13,7 +13,7 @@ USE KlassenDb;
 
 --INSERT INTO KlassenTBL
 --VALUES	(1, 'Johannes', 'Fredriksson', 37, 'Frölunda'),
---		(2, 'Jing', 'Leng', 5, 'Hisingen'),
+--		(2, 'Jing', 'Leng', null, 'Hisingen'),
 --		(3, 'Andreas', 'Nordfeldt', null, 'Hisingen'),
 --		(4, 'Linus', 'Fjellström', null, 'Mölndal');
 
